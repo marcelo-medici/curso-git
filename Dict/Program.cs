@@ -42,7 +42,7 @@ namespace Dict
             }
             catch (IOException e)
             {
-                Console.WriteLine("Error: File error");
+                Console.WriteLine("Error: " + e);
             }
             
         }

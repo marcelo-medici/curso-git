@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSet", "HashSet\HashSet.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dict", "Dict\Dict.csproj", "{D4537273-A704-45AD-B617-21E7E7F3CC1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{EF2AE492-1D9B-48C7-A283-4E2F6A516BB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{D4537273-A704-45AD-B617-21E7E7F3CC1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4537273-A704-45AD-B617-21E7E7F3CC1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4537273-A704-45AD-B617-21E7E7F3CC1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF2AE492-1D9B-48C7-A283-4E2F6A516BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2AE492-1D9B-48C7-A283-4E2F6A516BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2AE492-1D9B-48C7-A283-4E2F6A516BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2AE492-1D9B-48C7-A283-4E2F6A516BB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
